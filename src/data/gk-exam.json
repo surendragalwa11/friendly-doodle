@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which state launch a project that aims to provide free internet access to the poor in the State?",
+        "options": [
+            " Sikkim",
+            "Karnataka",
+            "Kerala",
+            "Assam"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "The National Aeronautics and Space Administration renamed its Wide Field Infrared Survey Telescope as?",
+        "options": [
+            "Hubble 2 Space Telescope",
+            "Nancy Grace Roman Space Telescope",
+            "Hubble legacy Space Telescope",
+            "Legend Grace Space Telescope"
+        ],
+        "answer": "Nancy Grace Roman Space Telescope"
+    },
+    {
+        "question": "M.P. Veerendra Kumar passed away at the age of 83 due to cardiac arrest in Kozhikode, Kerala. He was a famous?",
+        "options": [
+            "Singer",
+            "Politician",
+            "Actor",
+            "Cricketer"
+        ],
+        "answer": "Politician"
+    },
+    {
+        "question": "Name the first cricketer to score 1000 runs in an innings in any competitive match?",
+        "options": [
+            "Prithvi Shaw",
+            "Pranav Dhanawade",
+            "Virat Kohli",
+            "Shikhar Dhawan"
+        ],
+        "answer": "Pranav Dhanawade"
+    },
+    {
+        "question": "According to international standard, what is the distance of marathon race?",
+        "options": [
+            "26 miles 385 yards",
+            "26 miles",
+            "36 miles 500 yards",
+            "22 miles"
+        ],
+        "answer": "26 miles 385 yards"
+    }
+]
